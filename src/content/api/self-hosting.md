@@ -1,7 +1,7 @@
 ---
 head:
   meta:
-    - name: "og:title"
+    - name: "6PM-OPTIC:title"
       property: "og:title"
       content: "Self-Hosting Lanyard"
     - name: "twitter:title"
